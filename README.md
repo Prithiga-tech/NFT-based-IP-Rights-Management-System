@@ -56,7 +56,19 @@ The project is deployed live on GitHub Pages:
 - `dashboard.html` - Main dashboard page  
 - `login.html` - Login page  
 - `index.html` - Landing page  
-- `style.css` - Stylesheet  
+- `style.css` - Stylesheet
+
+## Team / Collaborative Project
+This project originally developed by:
+
+- Prithiga
+- Shama
+- Rajonnya
+- Sandhiya
+- Roshini
 
 ## License
 This project is for educational purposes and demonstrates blockchain integration concepts.
+
+
+
